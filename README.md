@@ -9,7 +9,7 @@ Environmental score, processed level, nutrition score
 ## Features
 - Real-time nutritional information display
 - Customizable health goals tracking
-- Integration with popular online grocery stores
+- Integration with the world-renowned Instacart
 - User-friendly interface
 - Personalized recommendations
 
