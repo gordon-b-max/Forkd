@@ -1,0 +1,13 @@
+{
+  "name": "thicccheck-search",
+  "version": "1.0.0",
+  "description": "Product search service for OpenFoodFacts data",
+  "main": "src/backend/examples/searchExample.js",
+  "scripts": {
+    "start": "node src/backend/examples/searchExample.js"
+  },
+  "dependencies": {
+    "natural": "^6.10.0",
+    "string-similarity": "^4.0.4"
+  }
+} 
