@@ -5,7 +5,7 @@
 ### Tasks
 1.  Build Data Source in AWS 
 
-    * [Done] Read documentation and request sample data from Open Food Facts APIs
+    * [x] Read documentation and request sample data from Open Food Facts APIs
         1. [OpenFoodFacts API Documentation](https://openfoodfacts.github.io/openfoodfacts-server/api/)
 
         2. [OpenFoodFacts Available Data](https://world.openfoodfacts.org/data)
@@ -14,9 +14,9 @@
 
         4. [OpenFoodFacts SDK for Node.js](https://github.com/openfoodfacts/openfoodfacts-nodejs/tree/develop/src/schemas)
 
-    * [Done] Add Static JSON Unzipped File to S3 and Process with Glue in AWS
+    * [x] Add Static JSON Unzipped File to S3 and Process with Glue in AWS
 
-    * [*In-progress*] Query JSON data in Athena and explore dataset and columns of use in excel
+    * [ ] Query JSON data in Athena and explore dataset and columns of use in excel
     
     * [ ] Document required columns in `architecture.drawio` for back-end data source
 
