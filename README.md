@@ -32,11 +32,12 @@ ThiccCheck is a Chrome extension designed to make healthy grocery shopping easie
 * [x] Query JSON data in Athena and explore dataset and columns of use in excel
     * Explore sample data in Excel sheet 
 
+* [x] Document required columns in `architecture.drawio` for back-end data source
+
 * [ ] Create lambda function to unzip and process data source
     * Export filtered data set of useful columns for US products and store in S3
     * Clean remaining dataset and remove AWS Glue table crawler
 
-* [ ] Document required columns in `architecture.drawio` for back-end data source
 
 
 ### Build logic to query similar products from data source
