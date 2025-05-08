@@ -1,0 +1,20 @@
+id,nutriscore_grade,ecoscore_grade,nova_groups_tags,countries_hierarchy,brand_tags,categories_hierarchy
+0000105000011,unknown,unknown,['en:1-unprocessed-or-minimally-processed-foods'],['en:united-states'],['lagg-s'],['en:null']
+0000105000042,unknown,a,['en:1-unprocessed-or-minimally-processed-foods'],['en:united-states'],['lagg-s'],"['en:plant-based-foods-and-beverages', 'en:beverages', 'en:hot-beverages', 'en:plant-based-beverages', 'en:teas', 'en:tea-bags']"
+0000105000059,unknown,unknown,['unknown'],['en:united-states'],['lagg-s'],['en:null']
+0000105000073,unknown,unknown,['unknown'],['en:united-states'],['lagg-s'],['unknown']
+0000105000196,unknown,unknown,['en:4-ultra-processed-food-and-drink-products'],['en:united-states'],['lagg-s'],['en:null']
+0000105000219,unknown,unknown,['en:1-unprocessed-or-minimally-processed-foods'],['en:united-states'],['lagg-s'],['en:null']
+0000105000318,unknown,unknown,['unknown'],['en:united-states'],['lagg-s'],['en:null']
+0000105000356,unknown,a,['unknown'],['en:united-states'],['lagg-s'],"['en:plant-based-foods-and-beverages', 'en:beverages', 'en:hot-beverages', 'en:plant-based-beverages', 'en:teas', 'en:tea-bags']"
+0000105000363,unknown,unknown,['unknown'],['en:united-states'],['lagg-s'],['en:null']
+0011822338240,e,unknown,['en:4-ultra-processed-food-and-drink-products'],['en:united-states'],"['big-win', 'rite-aid-corporation']","['en:condiments', 'en:Groceries']"
+0011822338295,e,unknown,['en:3-processed-foods'],['en:united-states'],['big-win'],['en:undefined']
+0011822338318,unknown,unknown,['en:3-processed-foods'],['en:united-states'],['big-win'],['en:undefined']
+0011822339810,d,unknown,['en:1-unprocessed-or-minimally-processed-foods'],['en:united-states'],"['big-win', 'rite-aid-corporation']",['en:undefined']
+0011822339964,c,not-applicable,['en:4-ultra-processed-food-and-drink-products'],['en:united-states'],"['big-win', 'rite-aid-corporation']","['en:beverages', 'en:waters']"
+0011822339971,c,not-applicable,['en:4-ultra-processed-food-and-drink-products'],['en:united-states'],"['big-win', 'rite-aid-corporation']","['en:beverages', 'en:waters']"
+0011822339995,c,not-applicable,['en:4-ultra-processed-food-and-drink-products'],['en:united-states'],"['big-win', 'rite-aid-corporation']","['en:beverages', 'en:waters']"
+0011822354493,e,unknown,['en:4-ultra-processed-food-and-drink-products'],['en:united-states'],['rite-aid'],['en:undefined']
+0011822354516,a,unknown,['en:4-ultra-processed-food-and-drink-products'],['en:united-states'],['rita-aid'],['en:undefined']
+0011822354561,e,unknown,['en:4-ultra-processed-food-and-drink-products'],['en:united-states'],['rite-aid'],['en:undefined']

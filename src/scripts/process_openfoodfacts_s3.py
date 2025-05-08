@@ -13,6 +13,8 @@ def extractFields(product):
     id_value = product.get("_id") or product.get("id") or product.get("code") or "unknown"
     return {
         "id": id_value,
+        "product_name": product.get("product_name", "unknown"),
+        "nutriments": product.get("nutriments", "unknown"),
         "nutriscore": product.get("nutriscore", "unknown"),
         "nutriscore_data": product.get("nutriscore_data", "unknown"),
         "nutriscore_grade": product.get("nutriscore_grade", "unknown"),
@@ -22,8 +24,7 @@ def extractFields(product):
         "brand_tags": product.get("brands_tags", "unknown"),
         "categories_hierarchy": product.get("categories_hierarchy", "unknown"),
         "countries_hierarchy": product.get("countries_hierarchy", "unknown"),
-        "image_url": product.get("image_url", "unknown"),
-        "data_sources": product.get("data_sources", "unknown"),
+        "image_url": product.get("image_url", "unknown")
     }
 
 def process_s3_jsonl_batches_to_s3(bucket, key, output_bucket, output_prefix, batch_size):
