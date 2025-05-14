@@ -1,7 +1,7 @@
-# ThiccCheck
+# Forkd
 
 ## Description
-ThiccCheck is a Chrome extension designed to make healthy grocery shopping easier. It helps users track their nutritional goals and make informed decisions while shopping online. 
+Forkd is a Chrome extension designed to make healthy grocery shopping easier. It helps users track their nutritional goals and make informed decisions while shopping online. 
 
 ## Development WIP
 * Similar to how Yuka (phone application) displays nutrition information on products, metrics to be included in the browser alongside product information:
