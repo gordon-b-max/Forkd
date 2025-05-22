@@ -1,4 +1,4 @@
-const ProductSearchService = require('../services/searchService');
+const ProductSearchService = require('./searchService');
 const fs = require('fs').promises;
 const path = require('path');
 
